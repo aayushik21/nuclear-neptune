@@ -1,11 +1,8 @@
-<h1>AgenceX Landing page</h1>
+FinEdge - Fintech Project
+Welcome to the FinEdge repository! This is a fictitious fintech project focused on transforming cross-border payments. Our goal is to create a cutting-edge platform that enables individuals and businesses to make seamless transactions regardless of geographic boundaries. We believe in a world where financial interactions are efficient, secure, and globally accessible.
 
-A simple landing page for a digital agency
-
-![AgenceX light Theme](./screens/demoLight.webp)
-![AgenceX Dark Theme](./screens/demoDark.webp)
-
-
+Technologies Used
+Astro Framework: We have chosen the Astro framework for building the FinEdge website. Astro allows us to create a fast, performant, and modern single-page application.
 ## Tools
 - TailwindCSS v3.3
 - AstroJs 
